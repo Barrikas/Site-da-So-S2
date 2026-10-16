@@ -1,0 +1,3 @@
+export function AboutSection() {
+  return <section id="sobre" className="scroll-mt-20 bg-slate-50 px-6 py-24 lg:px-10"><div className="mx-auto grid max-w-7xl gap-12 lg:grid-cols-[0.7fr_1fr] lg:items-center"><p className="font-serif text-7xl text-stone-300 lg:text-9xl">sobre<br />o fazer</p><div className="max-w-xl"><p className="mb-3 text-xs uppercase tracking-[0.3em] text-stone-500">Sophia Barchi</p><h2 className="font-serif text-4xl text-gray-800 sm:text-5xl">A arte como lugar de encontro.</h2><p className="mt-6 leading-8 text-gray-600">Meu trabalho investiga a delicadeza das coisas cotidianas. Entre camadas de tinta e espaços em branco, crio imagens que convidam a desacelerar e olhar de novo.</p></div></div></section>
+}
